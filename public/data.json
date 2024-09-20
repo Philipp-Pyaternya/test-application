@@ -1,0 +1,29 @@
+[
+  {
+    "default_value": "",
+    "validation": "^[a-zA-Z0-9]+$",
+    "type": "text",
+    "label": "title",
+    "id": "85d5c233-2d78-478a-9ec7-62888dd36d9c"
+  },
+  {
+    "default_value": "",
+    "type": "longtext",
+    "label": "description",
+    "id": "541f1a1f-9b0a-4829-acde-f6268d844106"
+  },
+  {
+    "options": ["Option 1", "Option 2", "Option 3"],
+    "type": "dropdown",
+    "label": "option",
+    "id": "016fa24f-e7c0-4f20-8e70-967f111079c4"
+  },
+  {
+    "default_value": 5,
+    "min_value": 1,
+    "max_value": 10,
+    "type": "number",
+    "label": "count",
+    "id": "704fb221-a231-464c-94e4-44ae40df7257"
+  }
+]
